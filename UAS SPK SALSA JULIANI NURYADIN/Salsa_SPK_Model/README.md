@@ -1,7 +1,9 @@
 
 # spk_model
 
-  
+Nama : Salsa Juliani Nuryadin<br>
+NIM : 201011400895<br>
+Kelas : 07-TPLP-013<br>  
 
 ## Virtualenv
 
